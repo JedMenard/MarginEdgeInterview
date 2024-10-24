@@ -1,0 +1,14 @@
+C:\Users\Jed\source\repos\MarginEdgeInterview\bin\Debug\net8.0\MarginEdgeInterview.exe
+C:\Users\Jed\source\repos\MarginEdgeInterview\bin\Debug\net8.0\MarginEdgeInterview.deps.json
+C:\Users\Jed\source\repos\MarginEdgeInterview\bin\Debug\net8.0\MarginEdgeInterview.runtimeconfig.json
+C:\Users\Jed\source\repos\MarginEdgeInterview\bin\Debug\net8.0\MarginEdgeInterview.dll
+C:\Users\Jed\source\repos\MarginEdgeInterview\bin\Debug\net8.0\MarginEdgeInterview.pdb
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.AssemblyInfoInputs.cache
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.AssemblyInfo.cs
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.csproj.CoreCompileInputs.cache
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.dll
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\refint\MarginEdgeInterview.dll
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.pdb
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\MarginEdgeInterview.genruntimeconfig.cache
+C:\Users\Jed\source\repos\MarginEdgeInterview\obj\Debug\net8.0\ref\MarginEdgeInterview.dll
